@@ -1,0 +1,5 @@
+{
+	"/tmp/file_copy_test/dir1" : "/tmp/file_copy_test/backup/bdir1",
+	"/tmp/file_copy_test/dir2" : "/tmp/file_copy_test/backup/bdir2",
+	"/tmp/file_copy_test/f3.odt" : "/tmp/file_copy_test/backup/bf3"
+}
